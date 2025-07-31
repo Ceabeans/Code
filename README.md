@@ -1,4 +1,4 @@
-# CLDM
+# CLDM-Plam
 # Palmprint Code Overview and Guide
 
 ## 1. Extracting Palmprint ROI (Region of Interest) — (`roi_extract` folder)
