@@ -1,10 +1,6 @@
 # CLDM
 # Palmprint Code Overview and Guide
 
-<p align="center">
-<img src=Sample.png />
-</p>
-
 ## 1. Extracting Palmprint ROI (Region of Interest) — (`roi_extract` folder)
 The main script is `extract_data.py`. Modify the path to the original palmprint images and the output path for the palmprint ROI. Run the script to obtain the palmprint ROIs.
 
