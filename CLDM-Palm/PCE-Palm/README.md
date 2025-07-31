@@ -2,9 +2,6 @@
 *PCE-Palm: Palm Crease Energy based Two-stage Realistic Pseudo-palmprint Generation*
 | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28039)
 
-## Example results
-<img src='imgs/pce-image.png' width=820>  
-
 
 ## Prerequisites
 - Python 3
