@@ -1,0 +1,8 @@
+colorlog
+matplotlib
+numpy
+opencv_python
+opencv_python_headless
+toml
+torch
+tqdm

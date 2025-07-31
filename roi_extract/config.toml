@@ -1,0 +1,6 @@
+[DATAEXTRACT]
+data_origin_path = 'data/origin'
+data_roi_path = 'data/roi'
+
+[DETECT]
+device = 'cuda:0'
