@@ -39,3 +39,18 @@ The main script is `extract_data.py`. Modify the path to the original palmprint 
 
 ## 4. Evaluating the Quality of Generated Palmprints (`fid` folder)
 Modify the comparison image path and run `fid.ipynb`.
+
+## Citation
+
+```bibtex
+@article{zhu2025cldm,
+  title={CLDM-Palm: A controllable latent diffusion model for high-fidelity palmprint generation based on Bézier curves},
+  author={Zhu, Y. and Jia, D. and Chu, K. and others},
+  journal={Applied Intelligence},
+  volume={55},
+  pages={984},
+  year={2025},
+  doi={10.1007/s10489-025-06923-2},
+  url={https://doi.org/10.1007/s10489-025-06923-2}
+}
+```
